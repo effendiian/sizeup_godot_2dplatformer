@@ -13,9 +13,9 @@ You'll need to have at least v3.1 of the [Godot](https://github.com/godotengine/
 
 ## Binaries ##
 
-At this time, there are no binaries of the game that you can try out. This section will be expanded once that changes.
+You can find the binaries under the 'builds' folder. Currently, there is an exported runnable for the Windows OS alone.
 
-If you want to build the project for yourself follow the official engine documentation for the [Export](https://docs.godotengine.org/en/3.1/getting_started/workflow/export/index.html) workflow.
+If you want to build the project for a different platform yourself, follow the official engine documentation for the [Export](https://docs.godotengine.org/en/3.1/getting_started/workflow/export/index.html) workflow.
 
 ## Contributions ##
 
